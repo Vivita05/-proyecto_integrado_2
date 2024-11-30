@@ -18,3 +18,4 @@ Lengua y Literatura	5.62	3.07	4.97	2.71	5.14	2.69	7.58	4.77
 Matemáticas	5.11	2.94	4.88	2.82	5.78	2.85	7.22	5.03
 Química	5.60	2.70	5.98	2.86	5.87	2.93	7.92	4.38
 Sociología	5.07	2.87	5.53	2.82	5.53	2.93	7.25	4.96
+https://gamma.app/generate/2v9a13a8fthlrd4
